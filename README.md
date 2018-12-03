@@ -3,6 +3,8 @@
 Project requires SDL2 to be installed
 ----
 
+-> QuickSDL files provided by Ather Omar.
+
 Additional Parts Required
 ----
 
